@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Lifruk</string>
+    <string name="front">FRONT</string>
+    <string name="back">BACK</string>
+    <string name="summit">Summit</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="add_topic">Add topic</string>
+    <string name="settings">Settings</string>
+
+    <!--Preference-->
+    <string name="parametreKey">parametersKey</string>
+    <string name="settingsTitle">Settings</string>
+    <string name="nativeL">Native language</string>
+    <string name="learningL">Learning language</string>
+    <string name="nativeLKey">nativeL</string>
+    <string name="learningLKey">learningL</string>
+    <string name="learningLSummary">Which language do you want to learn?</string>
+    <string-array name="listL">
+        <item>"English"</item>
+        <item>"Lithuanian"</item>
+        <item>"Ukrainian"</item>
+        <item>"French"</item>
+    </string-array>
+    <string-array name="listLAlias">
+        <item>"E"</item>
+        <item>"L"</item>
+        <item>"U"</item>
+        <item>"F"</item>
+    </string-array>
+
+    <string name="dlevel">Difficulty level</string>
+    <string name="dlevelKey">dlevel</string>
+    <string-array name="level">
+        <item>"Easy"</item>
+        <item>"Medium"</item>
+        <item>"Hard"</item>
+    </string-array>
+    <string-array name="levelAlias">
+        <item>"E"</item>
+        <item>"M"</item>
+        <item>"H"</item>
+    </string-array>
+
+
+</resources>
